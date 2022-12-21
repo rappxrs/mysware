@@ -5,6 +5,8 @@ local h={
     [212230462] = true; -- silver
     [116372050] = true; -- finxcil
     
+    [482149247] = true; -- galxcil
+    
     [39561905] = true; -- jason
     
     [865412341] = true; -- voiceok
