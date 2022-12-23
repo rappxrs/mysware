@@ -5,21 +5,13 @@ local h={
     [212230462] = true; -- silver
     [116372050] = true; -- finxcil
     
-    [482149247] = true; -- galxcil
+    -- buyers:
     
-    [39561905] = true; -- jason
-    
-    [865412341] = true; -- voiceok
-    
-    [161773639] = true; -- voriants
-    
-    [237339225] = true; -- iwakuu
+    [46725410] = true; -- timelessscope
+    [66162454] = true; -- timelesscope alt 
     
     [546475944] = true; -- eternal
     
-    [2725127221] = true; -- someonexcil 
-    
-    [172727666] = true; -- 444xcil 
 
 }
 
